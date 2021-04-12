@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(101, 199, 231);
+  }
+  
+  h1 {
+    font-family:'Arial Black';
+    color: #1a1a1a;
+    font-size: 4em;
+    background: #F2E6E6;
+    line-height: 150px;
+    margin: 0px 0px 0px 10px;
+    padding-left: 20px;
+}
+intro {
+    font-size: larger;
+    padding-bottom: 10px;
+    background: #c8c8c8;
+    border-left: solid 25px #4c0000;
+    margin-left: 10px;
+    padding-left: 25px;
+}
